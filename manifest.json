@@ -1,9 +1,9 @@
 {
   "id": "nl-obsidian-svelte-template",
-  "name": "obsidian--svelte-template",
+  "name": "NL-Svelte-Template",
   "version": "0.0.1",
   "minAppVersion": "0.15.0",
-  "description": "obsidian svelte integrate template",
+  "description": "obsidian integrated template",
   "author": "Nathaniel",
   "authorUrl": "",
   "fundingUrl": "",
